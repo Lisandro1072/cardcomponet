@@ -15,7 +15,7 @@
   .card {
     background-color: #ffff;
     width: 353px;
-    height: 250px;
+    height: 225px;
     border-radius: 30px;
     padding: 32px;
     text-align: center;
@@ -23,7 +23,7 @@
   .img-profile{
     margin: 0 auto;
     position: relative;
-    top: -80px;
+    top: -75px;
     border-radius: 50px;
   }
   .details h2 {
@@ -31,18 +31,18 @@
     font-size: 18px;
     text-align: center;
     position: relative;
-    top: -60px;
+    top: -70px;
   }
   .details p {
     font-weight: 500;
     font-size: 12px;
     text-align: center;
     position: relative;
-    top: -40px;
+    top: -50px;
   }
   .details{
     width: 290px;
-    height: 51px;
+    height: 30px;
   }
   .section-button {
     font-weight: 900;
